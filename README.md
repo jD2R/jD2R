@@ -1,8 +1,11 @@
-# Hi there! :D
+ # Hi there! :D
 
-I'm Dominic, welcome to my profile! 👋
+<p>I'm Dominic, welcome to my profile! :wave:
+ 
+I'm experienced in web development and game development, and have worked with HTML, CSS, JS, Python, Java, and MySQL.<br>
+Currently learning more front-end development, node.js, and version control with git.</p>
 
-## Find me elsewhere...
+## find me elsewhere...
  - <a href="https://www.khanacademy.org/profile/jD2R" target="_blank">Khan Academy</a>
  - <a href="https://codepen.io/jd2r" target="_blank">CodePen</a>
  - <a href="https://replit.com/@jD2R" target="_blank">Replit</a>
@@ -11,24 +14,21 @@ I'm Dominic, welcome to my profile! 👋
  - <a href="https://dev.to/jd2r" target="_blank">DEV Community</a>
  - <a href="https://community.codenewbie.org/jd2r" target="_blank">CodeNewbie</a>
  - <a href="https://www.freecodecamp.org/jD2R" target="_blank">freeCodeCamp</a>
- - <a href="https://www.hackerrank.com/jD2R_" target="_blank">HackerRank</a>
 
- <br>
 
-<div>
+## languages i've worked with...
+<div style="align:center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jd2r&theme=dark&background=000000)](https://git.io/streak-stats)
+## recent blogs...
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
