@@ -9,11 +9,14 @@ Currently advancing my knowledge of several technologies, including Angular, Tai
 
 
 <div id="badges">
-  <a href="https://replit.com/@jD2R">
+  <a href="https://www.replit.com/@jD2R">
     <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
   </a>
   <a href="https://codepen.io/jD2R">
     <img src="https://img.shields.io/badge/CodePen-yellow?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+  </a>
+  <a href="https://www.khanacademy.org/profile/jD2R">
+    <img src="https://img.shields.io/badge/Khan Academy-green?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Replit Badge"/>
   </a>
   <a href="https://stackblitz.com/@jD2R">
     <img src="https://img.shields.io/badge/StackBlitz-blue?style=for-the-badge&logo=stackblitz&logoColor=white" alt="StackBlitz Badge"/>
