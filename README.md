@@ -33,5 +33,6 @@ Currently advancing my knowledge of several technologies, including Angular, Tai
 
 ## Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jD2R&theme=dark&border_radius=12)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jD2R&show_icons=true&theme=dark&border_radius=12)
  
 </div>
