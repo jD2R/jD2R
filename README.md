@@ -21,6 +21,9 @@ Currently advancing my knowledge of several technologies, including Angular, Tai
   <a href="https://stackblitz.com/@jD2R">
     <img src="https://img.shields.io/badge/StackBlitz-blue?style=for-the-badge&logo=stackblitz&logoColor=white" alt="StackBlitz Badge"/>
   </a>
+  <a href="https://dev.to/jd2r">
+    <img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
+  </a>
 </div>
 
 
