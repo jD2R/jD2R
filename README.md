@@ -27,15 +27,14 @@ Currently advancing my knowledge of several technologies, including Angular, Tai
 </div>
 
 
-## Favorite Tools
+## Tools & Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
-## Github Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jD2R&theme=dark&border_radius=12)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jD2R&show_icons=true&theme=dark&border_radius=12)
+<br>
+<a href="https://app.daily.dev/jD2R"><img src="https://api.daily.dev/devcards/2512236d24f245799dc7e301865efadd.png?r=r3o" width="200" alt="Dominic R.'s Dev Card"/></a>
  
 </div>
