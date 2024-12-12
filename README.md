@@ -1,31 +1,26 @@
-<h1 align="left">Hey there 👋</h1>
+![welcome splash banner](newbanner.png)
 
-###
+<div align="center">
+<img src='https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white'>
+<img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
-<p align="left">I'm an aspiring software developer who works with JavaScript. 🚀</p>
 
-###
+<img src='https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white'>
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/P5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+<br>
 
-<h2 align="left">About me</h2>
+![contact splash banner](contact.png)
 
-###
-
-<p align="left">💻 Started coding in 2019 with JS.<br>🎯 Juggling my education with my developer skills.</p>
-
-###
-
-<h2 align="left">My Toolkit</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="40" alt="processing logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<div align="center">
+<img src='https://img.shields.io/badge/@jd2r-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white'>
+<img src="https://img.shields.io/badge/drocco2307@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/@d01110010-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/@dominicrocco-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+<img src="https://img.shields.io/badge/@dominic--rocco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
